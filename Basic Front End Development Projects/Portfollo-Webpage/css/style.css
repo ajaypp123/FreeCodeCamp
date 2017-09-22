@@ -1,0 +1,150 @@
+body {
+  position: relative;
+}
+footer {
+  background-color: black;
+  color: gray;
+  line-height: 20px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  width: 100%;
+  bottom: 0;
+  position: relative;
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+section h1, h2, p {
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+
+.panel-body, p {
+    font-size: 150%;
+}
+
+section a {
+  color: white;
+}
+.gray-text {
+  color: gray;
+}
+.project-text {
+  color: gray;
+}
+img {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+  /* For IE8 and earlier */
+}
+.thumbnail img:hover {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  /* For IE8 and earlier */
+}
+.me {
+  width: 250px;
+  height: 250px;
+  margin-top: 50px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: gray;
+}
+.displayed {
+  display: block;
+  margin-right: auto;
+  margin-left: auto
+}
+.img-text {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-right: 30%;
+  padding-left: 30%;
+}
+.social {
+  padding-top: 10px;
+}
+.panel-body {
+  color: black;
+}
+.navbar-header {
+  padding-left: 10%;
+}
+.navbar-right {
+  padding-right: 10%;
+}
+.home {
+  position: relative;
+  min-height: 100vh;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+  background-color: #1E88E5;
+}
+.experience {
+  min-height: 100vh;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+  background-color: #009688;
+}
+.portfolio {
+  min-height: 100vh;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+  background-color: #ff9800;
+}
+.contact {
+  min-height: 90vh;
+  padding-top: 5%;
+  padding-bottom: 50px;
+  color: #fff;
+  background-color: #00bcd4;
+}
+.contact-info {
+  max-width: 100vh;
+  min-height: 60vh;
+  margin: auto;
+}
+
+
+hr.star-light,
+hr.star-primary {
+  max-width: 530px;
+  margin: 25px auto 30px;
+  padding: 2;
+  text-align: center;
+  border: none;
+  border-top: solid 5px; }
+
+hr.star-light:after,
+hr.star-primary:after {
+  font-family: FontAwesome;
+  font-size: 2em;
+  position: relative;
+  top: -.8em;
+  display: inline-block;
+  padding: 0 0.25em;
+  content: '\f005'; }
+
+
+.floating-label-form-group {
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eeeeee; }
+  
+  .floating-label-form-group input,
+  .floating-label-form-group textarea {
+    font-size: 1.5em;
+    position: relative;
+    z-index: 1;
+    padding-right: 0;
+    padding-left: 0;
+    resize: none;
+    border: none;
+    border-radius: 0;
+    background: none;
+    color: white;
+    box-shadow: none !important; }
+  
