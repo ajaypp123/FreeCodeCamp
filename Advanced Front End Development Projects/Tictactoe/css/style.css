@@ -1,8 +1,8 @@
 body {
   position: relative;
   background-color: #006400;
-
 }
+
 footer {
   background-color: black;
   margin: 20px;
@@ -26,29 +26,49 @@ footer {
   padding: 20px 20px 20px 20px;
 }
 
-table{
+#table1{
   border: 1px solid black;
   width: 100%;
   height: 100%;
   background-color: #289AEF;
 }
 
-tr{
+.tr1{
   border: 1px solid black;
  
 }
 
-td{
+.td1{
   border: 1px solid black;
   width: 120px;
   height: 120px;
 }
 
 h2{
+  color: black;
   text-align: center;
 }
 
 .box{
-  background-color: black; 
+  
   height:100%;
+}
+
+#cross ,#zero, #reset{
+  background-color: red;
+  color: white;
+}
+
+td{
+  width: 33%;
+  height: 120px;
+}
+
+p{
+  display: none;
+}
+
+img {
+  width: 100px;
+  height: 100px;
 }
