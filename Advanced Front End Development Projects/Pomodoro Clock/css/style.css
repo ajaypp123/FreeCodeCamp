@@ -1,0 +1,55 @@
+body {
+    background-color: #FF6347;
+    color: #14CC60;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.heading{
+    text-align: center;
+    color: yellow;
+}
+
+.timer1{
+  text-align: center;
+  color: yellow;
+  font-size: 30px;
+}
+
+.buttons{
+    background-color: #0097B2;
+}
+
+footer {
+  background-color: black;
+  margin: 20px;
+  color: gray;
+  line-height: 20px;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+
+.countdown-clock {
+    border: 4px solid #0097B2;
+    width: 300px;
+    height: 300px;
+    border-radius: 400px;
+    margin: 50px auto;
+}
+
+.controls {
+    margin: 10px auto;
+}
+
+.countdown-timer {
+    text-align: center;
+    margin-top: 0px;
+}
+
+#timeLeft {
+    font-size: 4em;
+    text-align: center;
+}
