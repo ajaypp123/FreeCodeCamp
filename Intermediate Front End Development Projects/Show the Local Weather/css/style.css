@@ -2,7 +2,7 @@ body{
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
-  background-image: url('https://www.doculabs.com/wp-content/uploads/2017/03/clouds-darker.jpg');
+  background-image: url('https://github.com/ajaypp123/FreeCodeCamp-Front_End_Development_Certification/blob/master/Intermediate%20Front%20End%20Development%20Projects/Show%20the%20Local%20Weather/img/clouds.jpg?raw=true');
 }
 
 footer {
@@ -30,11 +30,17 @@ h2{
   padding-top: 50px;
   padding-right: 30%;
   padding-left: 30%;
+  font-size: 30px;
+}
+
+.box2{
+  background-color: green;
+  color: white;
 }
 
 button {
      background:none!important;
-     color:blue;
+     color:red;
      border:none; 
      padding:0!important;
      font: inherit;
@@ -44,13 +50,5 @@ button {
 
 .opt_temp{
   text-align: center;
-}
-
-#tempval{
-  text-align: right;
-  padding-right: -10px;
-}
-
-#unit{
-  text-align: left;
+  font-size: 20px;
 }
