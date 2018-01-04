@@ -6,6 +6,8 @@ API : https://openweathermap.org/api
 
 API Address = "http://api.openweathermap.org/data/2.5/weather?" + "lat=" + latitute + "&lon=" + longitute + "&appid=" + API_Key + "&units=" + Unit 
 
+Where API_Key allocated after sign up on openweathermap.org
+
 Where Unit 
   1. For Celsius = "metric";
   2. For Fahrenheit = "imperial";
