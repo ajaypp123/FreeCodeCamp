@@ -37,7 +37,7 @@ $(document).ready(function(){
 	{
 		var txt = "";
 
-		txt += "<div class='well'>"
+		txt += "<div class='well box2'>"
 		txt += "<div id='name'>" + data.name + " ," + data.sys.country + ".</div>";
 
 		if(uni == "metric")
@@ -47,7 +47,7 @@ $(document).ready(function(){
 		{
 			txt += "<div id='temp'>" + data.main.temp + " °F</div>";
 		}
-		txt += "<div id='weather'>weather " + data.weather[0].main + "</div>";
+		txt += "<div id='weather'>" + data.weather[0].description + "</div>";
 		txt += "<div id='icon'>" + "<img src='http://openweathermap.org/img/w/" + data.weather[0].icon + ".png'</img>" + "</div>";
 		txt += "</div>";
 
