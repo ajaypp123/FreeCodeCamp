@@ -1,0 +1,95 @@
+body{
+  background-image: url('https://hexagonusfederal.com/-/media/Images/Hexagon/Hexagon%20Core/IGS/Images/Solutions%20and%20Services/1680x885/EnterpriseSearch.ashx?h=885&w=1680&la=en&hash=48CA3AB3FA7F8C504E5995658E5981E3D4BAFE0E');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% 100%;
+  background-position: relative;
+  background-attachment: fixed;
+  background-bottom: 40px;
+}
+
+.contain{
+  position: fixed;
+  right: 0;
+  top: 0;
+  left: 0;
+  background-color: black
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  color: gray;
+  line-height: 20px;
+  padding-bottom: 3px;
+  width: 100%;
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+
+.box{
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.buttons{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Comic Sans MS;
+}
+
+h2{
+  padding: 10px;
+  font-family: arial, helvetica;
+  font-weight: bold;
+  text-align: center;
+  color: #30F757;
+}
+
+.button {
+  margin-left: 10px;
+  background: #F76F30;
+  border-radius: 34px;
+  color: black;
+  font-size: 16px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #FB6E2C ;
+  text-decoration: none;
+}
+
+.block{
+  color: #F7FF47;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  background-color: green;
+  padding: 20px;
+  border: 80px;
+  font-size: 15px;
+}
+
+.wikidata{
+  padding-right: 120px;
+  padding-left: 120px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.link:hover{
+  color: #F7FF47;
+  text-decoration: none;
+}
+
+.link:visited{
+  color: #F7FF47;
+  text-decoration: none;
+}
