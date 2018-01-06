@@ -1,0 +1,104 @@
+body{
+  background-image: url('https://cdn3.dualshockers.com/wp-content/uploads/2017/04/twitch-tv-2.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% 100%;
+  background-position: relative;
+  background-attachment: fixed;
+  background-bottom: 40px;
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  color: gray;
+  line-height: 20px;
+  padding-bottom: 3px;
+  width: 100%;
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+
+.buttons{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Comic Sans MS;
+}
+
+
+.button {
+  margin-left: 10px;
+  background: #F76F30;
+  border-radius: 34px;
+  color: black;
+  font-size: 16px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btns{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+}
+
+.button:hover {
+  background: #FB6E2C ;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.link:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.follower{
+  padding-bottom: 150px;
+  padding-top: 30px;
+  text-align: center;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.imagelogo{
+  width: 70px;
+  height: 80px;
+}
+
+.view{
+  padding: 10px;
+  color: white;
+  font-size: 15px;
+  background: rgba(0,0,0,.30);
+  background-color: red;
+  border: 5px white solid;
+  border-radius:25px;
+  margin-bottom:20px;
+}
+
+#header{
+  color: white;
+}
+
+.tableheader{
+  color: red;
+  margin-left: 120px;
+  margin-right: 120px;
+  background: rgba(0,0,0,.45);
+  border: 5px white solid;
+  border-radius:25px;
+  padding: 10px;
+  margin-bottom:10px;
+  margin-top: 10px;
+}
