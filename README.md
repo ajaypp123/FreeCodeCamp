@@ -3,7 +3,7 @@
 
 This repository serves to keep a record of every project I created and every lesson I learned on freeCodeCamp. 
 
-### [MyFreeCodeCampWork](https://www.freecodecamp.com/chrisjim316)
+### [MyFreeCodeCampWork](https://www.freecodecamp.org/ajaypp123)
 
 * 01-HTML5-CSS
 * 02-Responsive-Design-With-Bootstrap 
