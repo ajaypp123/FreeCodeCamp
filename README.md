@@ -19,5 +19,7 @@ This repository serves to keep a record of every project I created and every les
 * 12-Advanced-FE-Projects
 * My Front End Development Certification
 
+### MyFreeCodeCamp Profile (https://www.freecodecamp.org/ajaypp123)
+
 ## Projects
 
